@@ -4,11 +4,7 @@
 
 - <b>Azure Sentinel (SIEM) </b>
   - [Azure Sentinel SIEM](https://github.com/ITJOEIT/Azure-SIEM)
-- <b>Active Directory Home Lab (with PowerShell) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Vulnerability Manager </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-<h2>Certifications</h2>
+
 
 -📃 [CompTIA A+](https://www.google.com)
 
