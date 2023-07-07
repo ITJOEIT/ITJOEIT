@@ -5,8 +5,9 @@
 - <b>Azure Sentinel (SIEM) </b>
   - [Azure Sentinel SIEM](https://github.com/ITJOEIT/Azure-SIEM)
 
+<h2>📃 Certifications:</h2>
 
--📃 [CompTIA A+](https://www.comptia.org/certifications/a)
+ [CompTIA A+](https://www.comptia.org/certifications/a)
 
 <h2> 👋 Connect with me:</h2>
 
