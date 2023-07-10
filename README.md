@@ -3,7 +3,7 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel Lab (SIEM) </b>
-  - [Azure Sentinel Lab SIEM](https://github.com/ITJOEIT/Azure-SIEM)
+  - [Azure Sentinel Lab (SIEM)](https://github.com/ITJOEIT/Azure-SIEM)
 - <b>Active Directory Lab (with PowerShell) </b>
   - [Active Directory Lab (with PowerShell)](https://github.com/ITJOEIT/Active-Directory-Home-Lab)
 
