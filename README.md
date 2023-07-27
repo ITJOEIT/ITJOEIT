@@ -6,6 +6,8 @@
   - [Azure Sentinel Lab (SIEM)](https://github.com/ITJOEIT/Azure-SIEM)
 - <b>Active Directory Lab (with PowerShell) </b>
   - [Active Directory Lab (with PowerShell)](https://github.com/ITJOEIT/Active-Directory-Home-Lab)
+- <b>Network Tracker (using Wireshark and Python) </b>
+  - [Network Tracker (using Wireshark and Python)](https://github.com/ITJOEIT/Network-Tracker-using-Wireshark-and-Python)
 
 <h2>📃 Certifications:</h2>
 
